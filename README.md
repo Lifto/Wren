@@ -34,7 +34,8 @@ anything in the Clips that does not appear exactly in the mammals word set!)
 Click on the 'Import Mammals Closure' in the tool bar and watch the progress
 bar as the mammals are imported. Once they are you can examine them with the
 cursor keys. Note the numbers in each Clip, the left (red) number is the
-hyperbolic distance from the cursor's Clip to the top Clip (home Clip)
+hyperbolic distance from the Clip to cursor's Clip, the right (grey) number is
+the hyperbolic distance from the Clip to the top Clip (home Clip).
 
 Place the Cursor over a Clip that is not the top Clip and press command-Enter,
 or use the mouse to click 'Ranked Column' from the toolbar at the top. Watch
