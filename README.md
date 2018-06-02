@@ -1,4 +1,6 @@
-# Wren
+Wren
+====
+
 Experiments in scored-text UI
 
 This code contains snippets cut and pasted from
@@ -7,7 +9,7 @@ by Facebook Research, used under
 https://creativecommons.org/licenses/by-nc/4.0/
 
 Notes on this Work-in-Progress
-==============================
+------------------------------
 
 This is a work-in-progress that is being put down for a while. In this most
 recent incarnation you can import the terms related to 'mammal' from WordNet,
@@ -21,7 +23,7 @@ Otherwise, Wren is intended to be a user interface for constructing and viewing
  element-comparisons and adds new elements and comparators.
 
 Demo
-====
+----
 
 Install the packages for requirements.txt, then run wren.py in Python 3.6 or
 later.
@@ -44,7 +46,7 @@ progress bars for a while and then notice there is now a second column with the
  saved in wren_temp.db. (delete wren_temp.db to start over.)
 
 Usage
-=====
+-----
 
 (some of these seemed to have stopped working when I started using PyQT5
 Actions)
@@ -100,7 +102,7 @@ Marker's Clip's Datum.
 ctrl a: Import the Tensor Algebra notes
 
 Installation
-============
+------------
 
 Install git from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -143,6 +145,3 @@ Database
 
 Wren makes a wren_temp.db in its working directory. Delete it or move it or
 rename it and Wren'll start over by making a new wren_temp.db.
-
-
-
