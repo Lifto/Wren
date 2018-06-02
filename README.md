@@ -108,7 +108,7 @@ Installation
 Install git from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 In the directory where you want to install the Wren directory
-git clone git@github.com:jfries/wren.git
+git clone git@github.com:lifto/wren.git
 
 Install Python3 from python.org (this installs pip and pip3)
 
